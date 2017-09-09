@@ -1,1 +1,1 @@
-# react-state-machine
+# react-automata
