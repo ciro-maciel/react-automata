@@ -1,5 +1,5 @@
 {
-    "name": "react-automata",
+    "name": "@ciro-maciel/react-automata",
     "version": "0.1.0",
     "description": "react-automata",
     "main": "dist/index.js",
